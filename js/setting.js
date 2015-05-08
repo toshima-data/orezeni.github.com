@@ -18,24 +18,17 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* toshima cofog */
-  '1': { icon: 'icons/admin.svg', color: '#38a1db', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/admin.svg', color: '#38a1db', bcolor: '#935B3B' },
-  '2': { icon: 'icons/civilian-action.svg.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-1': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-2': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-3': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-4': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-5': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-6': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-7': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '2-8': { icon: 'icons/civilian-action.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '3': { icon: 'icons/helping-others.svg', color: '#38a1db', bcolor: '#4E6D00' },
-  '3-1': { icon: 'icons/helping-others.svg', color: '#38a1db', bcolor: '#4E6D00' },
-  '3-2': { icon: 'icons/old-age.svg', color: '#38a1db', bcolor: '#4E6D00' },
-  '3-3': { icon: 'icons/helping-other.svg', color: '#38a1db', bcolor: '#4E6D00' },
-  '3-4': { icon: 'icons/helping-other.svg', color: '#38a1db', bcolor: '#4E6D00' },
-  '3-5': { icon: 'icons/helping-other.svg', color: '#38a1db', bcolor: '#4E6D00' },
-  '3-6': { icon: 'icons/schools.svg', color: '#38a1db', bcolor: '#4E6D00' },
+  '1': { icon: 'icons/government-uk.svg', color: '#38a1db', bcolor: '#935B3B' },
+  '2': { icon: 'icons/', color: '#38a1db', bcolor: '#0AB971' },
+  '3': { icon: 'icons/helping-others.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '4': { icon: 'icons/ambulance.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '5': { icon: 'icons/waste.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '6': { icon: 'icons/housing.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '7': { icon: 'our-streets/.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '8': { icon: 'icons/culture.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '9': { icon: 'icons/schools.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '10': { icon: 'icons/.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '11': { icon: 'icons/.svg', color: '#38a1db', bcolor: '#0AB971' },
 };
 
 
