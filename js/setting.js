@@ -19,7 +19,7 @@ OpenSpending.Styles.Cofog = {
 
   /* toshima cofog */
   '1': { icon: 'icons/government-uk.svg', color: '#38a1db', bcolor: '#935B3B' },
-  '2': { icon: 'icons/', color: '#38a1db', bcolor: '#0AB971' },
+  '2': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
   '3': { icon: 'icons/helping-others.svg', color: '#38a1db', bcolor: '#0AB971' },
   '4': { icon: 'icons/ambulance.svg', color: '#38a1db', bcolor: '#0AB971' },
   '5': { icon: 'icons/waste.svg', color: '#38a1db', bcolor: '#0AB971' },
@@ -27,8 +27,8 @@ OpenSpending.Styles.Cofog = {
   '7': { icon: 'our-streets/.svg', color: '#38a1db', bcolor: '#0AB971' },
   '8': { icon: 'icons/culture.svg', color: '#38a1db', bcolor: '#0AB971' },
   '9': { icon: 'icons/schools.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '10': { icon: 'icons/.svg', color: '#38a1db', bcolor: '#0AB971' },
-  '11': { icon: 'icons/.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '10': { icon: 'icons/pig.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '11': { icon: 'icons/money.svg', color: '#38a1db', bcolor: '#0AB971' },
 };
 
 
