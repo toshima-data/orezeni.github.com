@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'toshimaku_2013_kessan';
+OpenSpending.identifier = 'toshimaku_kessan';
 OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
@@ -20,6 +20,15 @@ OpenSpending.Styles.Cofog = {
   /* toshima cofog */
   '1': { icon: 'icons/government-uk.svg', color: '#38a1db', bcolor: '#935B3B' },
   '2': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '3': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '4': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '5': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '6': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '7': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
+  '2': { icon: 'icons/yokohama/publicaffairs.svg', color: '#38a1db', bcolor: '#0AB971' },
+
+
+
   '3': { icon: 'icons/helping-others.svg', color: '#38a1db', bcolor: '#4E6D00' },
   '4': { icon: 'icons/ambulance.svg', color: '#38a1db', bcolor: '#0AB971' },
   '5': { icon: 'icons/waste.svg', color: '#38a1db', bcolor: '#0AB971' },
